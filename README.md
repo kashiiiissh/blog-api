@@ -81,8 +81,7 @@ src/main/java/com/blogapi/
 ▶️ How to Run
 
 # Clone repository
-git clone https://github.com/yourusername/your-repo
-
+git clone https://github.com/kashiiiissh/blog-api
 # Navigate to project
 cd blog-api
 
